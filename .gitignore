@@ -1,0 +1,7 @@
+database.json
+led_*.pdf
+internal_database/*
+nltk_data/*
+.venv
+.DS_Store
+__pycache__/
